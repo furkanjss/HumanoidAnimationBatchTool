@@ -1,0 +1,10 @@
+{
+  "name": "com.fmc.humanoid-animation-batch-tool",
+  "version": "1.0.0",
+  "displayName": "Humanoid Animation Batch Tool",
+  "description": "Apply import settings to selected Humanoid animation clips in bulk (Loop, Root Y/Z, Bake Into Pose, etc.). Tested on Unity 6.",
+  "unity": "6000.0",
+  "author": {
+    "name": "FMC"
+  }
+}

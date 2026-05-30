@@ -1,0 +1,11 @@
+{
+  "name": "HumanoidAnimationBatchTool.Editor",
+  "rootNamespace": "HumanoidAnimationBatchTool",
+  "references": [],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
