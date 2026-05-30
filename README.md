@@ -14,7 +14,7 @@ Unity Editor tool for applying import settings to selected **Humanoid** animatio
 
 
 
-### Method 1 — Copy into Packages (recommended)
+### Copy into Packages 
 
 
 
@@ -24,25 +24,6 @@ Unity Editor tool for applying import settings to selected **Humanoid** animatio
 
 
 
-### Method 2 — Copy into Assets
-
-
-
-1. Copy the `HumanoidAnimationBatchTool` folder into your project's `Assets/` directory.
-
-2. Unity recompiles the scripts.
-
-
-
-### Method 3 — .unitypackage
-
-
-
-1. Copy this folder into a Unity project.
-
-2. Right-click the folder > **Export Package...**
-
-3. Import the resulting `.unitypackage` into other projects.
 
 
 
